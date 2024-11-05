@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewukoopu.github.io/IiE/sitemap_index.txt
+Sitemap: https://ewukoopu.github.io/YTe/sitemap_index.txt
+Sitemap: https://ewukoopu.github.io/qJH/sitemap_index.txt
+Sitemap: https://ewukoopu.github.io/sZk/sitemap_index.txt
